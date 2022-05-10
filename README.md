@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Colton-O
-- Currently in game dev. Looking to get more into low level embedded systyms.
+- Currently in game dev. Looking to get more into low level embedded systems.
 - Really getting stuck into C lately
 - colton.o@hotmail.com
 
